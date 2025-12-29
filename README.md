@@ -10,6 +10,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=inam-ulhaq&theme=dark&hide_border=false)
+
 ![GitHub Stats](https://metrics.lecoq.io/inam-ulhaq?template=classic&languages=1&theme=dark)
 
 
