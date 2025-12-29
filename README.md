@@ -11,7 +11,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inam-ulhaq&theme=dark&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inam-ulhaq&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=inam-ulhaq&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inam-ulhaq&layout=compact&theme=dark&cache_seconds=86400)
 
