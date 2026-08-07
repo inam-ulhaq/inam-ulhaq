@@ -30,7 +30,7 @@ I enjoy breaking down complex problems into efficient, scalable, and optimized s
 - 👨‍🏫 **Instructor:** Michael Pogrebinsky
 - ⏱️ **Duration:** 8 hours
 - 📅 **Completed:** August 7, 2026
-- 📜 **Certificate:** [View Certificate](https://www.udemy.com/certificate/UC-4ca346d6-0d2e-4f59-9c92-c8d1ea023498/)
+- 📜 **Certificate:** [View Certificate]([https://www.udemy.com/certificate/UC-4ca346d6-0d2e-4f59-9c92-c8d1ea023498/](https://www.udemy.com/certificate/UC-4ca346d6-0d2e-4f59-9c92-c8d1ea023498/)
 
 ---
 
