@@ -1,16 +1,72 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Enhancing my problem-solving skills by actively practicing Data Structures and Algorithms and solving coding challenges on LeetCode.<br>👯 I’m looking to collaborate on:<br>Algorithmic problem-solving, competitive programming, and C/C++ based projects.<br>🤝 I’m looking for help with:<br>Advanced algorithm optimization, system design concepts, and real-world application of DSA.<br>🌱 I’m currently learning:<br>Advanced Data Structures, Algorithm optimization techniques, and competitive programming strategies.<br>💬 Ask me about:<br>C programming, C++, Data Structures & Algorithms, and LeetCode problem-solving approaches.<br>⚡ Fun fact:<br>I enjoy breaking down complex problems into efficient and optimized solutions.
 
+🔭 **I’m currently working on:**  
+Enhancing my problem-solving skills by actively practicing Data Structures and Algorithms and solving coding challenges on LeetCode.
+
+👯 **I’m looking to collaborate on:**  
+Algorithmic problem-solving, competitive programming, C/C++ projects, and system design projects.
+
+🤝 **I’m looking for help with:**  
+Advanced algorithm optimization, software architecture, system design concepts, and real-world applications of Data Structures & Algorithms.
+
+🌱 **I’m currently learning:**  
+Advanced Data Structures, Algorithm Optimization, Software Architecture, System Design, and Large-Scale Distributed Systems.
+
+💬 **Ask me about:**  
+C, C++, Data Structures & Algorithms, LeetCode problem-solving, and Software System Design.
+
+⚡ **Fun fact:**  
+I enjoy breaking down complex problems into efficient, scalable, and optimized solutions.
+
+---
+
+## 🎓 Certifications & Professional Development
+
+### 🏗️ Software Architecture & System Design
+
+**Software Architecture & Design of Modern Large Scale Systems**
+
+- 🎓 **Platform:** Udemy
+- 👨‍🏫 **Instructor:** Michael Pogrebinsky
+- ⏱️ **Duration:** 8 hours
+- 📅 **Completed:** August 7, 2026
+- 📜 **Certificate:** [View Certificate](https://www.udemy.com/certificate/UC-4ca346d6-0d2e-4f59-9c92-c8d1ea023498/)
+
+---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/inam-ulhaq ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/inam-ul-haq-93aa55329) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/inam_ulhaq100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inam88643@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inam-ulhaq)
+
+---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## 📊 GitHub Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=inam-ulhaq&theme=dark&hide_border=false)
+### 👨‍💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-![GitHub Stats](https://metrics.lecoq.io/inam-ulhaq?template=classic&languages=1&theme=dark)
+### 🧠 Computer Science
+![Data Structures](https://img.shields.io/badge/Data%20Structures-2C2C2C?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-2C2C2C?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-2C2C2C?style=for-the-badge)
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-2C2C2C?style=for-the-badge)
+
+### 🛠️ Tools & Technologies
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=inam-ulhaq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=inam-ulhaq&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inam-ulhaq&theme=dark&hide_border=false&layout=compact)
 
 
